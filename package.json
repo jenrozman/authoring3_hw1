@@ -1,0 +1,21 @@
+{
+  "name": "authoring3_hw1",
+  "version": "1.0.0",
+  "description": "chat application for standalone and video project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jenrozman/authoring3_hw1"
+  },
+  "keywords": [],
+  "author": "jmr",
+  "license": "MIT",
+  "homepage": "https://github.com/jenrozman/authoring3_hw1",
+  "dependencies": {
+    "express": "^4.16.2",
+    "grunt": "^1.0.1"
+  }
+}
